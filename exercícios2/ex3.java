@@ -5,7 +5,7 @@ public class ex3{
     public void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        int a, b, multiplo;
+        int a, b;
 
         a= sc.nextInt();
         b= sc.nextInt();
